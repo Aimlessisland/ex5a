@@ -10,7 +10,7 @@ function validate(pace){
 		}
 }
 
-function paceCal(){
+function paceCal(pace, dist){
 	var min = dist * pace;
 	var hour = 0;
 	
